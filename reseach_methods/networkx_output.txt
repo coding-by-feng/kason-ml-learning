@@ -1,0 +1,5 @@
+Warning: File 'Pubmed-Diabetes.DIRECTED.cites.tab' not found.
+Creating a sample graph for demonstration purposes.
+Number of nodes: 10
+Number of edges: 24
+Most cited papers: [('paper_4', 3), ('paper_5', 3), ('paper_6', 3), ('paper_7', 3), ('paper_8', 3), ('paper_9', 3), ('paper_10', 3), ('paper_3', 2), ('paper_2', 1), ('paper_1', 0)]
